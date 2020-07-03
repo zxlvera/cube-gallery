@@ -2,4 +2,4 @@
 
 A responsive photo gallery using CSS Grid
 
-![Preview](https://imgur.com/UaGYb9T)
+![Imgur](https://i.imgur.com/UaGYb9T.png)
